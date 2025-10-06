@@ -31,3 +31,4 @@
 - Sensor and actuator positions
 
 - Simple graphics help visualize system state
+<img width="1536" height="1024" alt="hmi-design" src="https://github.com/user-attachments/assets/ce9dd33c-5176-4b67-8a4b-8c8349bc7c15" />
